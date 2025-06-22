@@ -17,10 +17,7 @@
   <a href="https://www.linkedin.com/in/tirunagari-pratheek">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://rockyhermit.github.io/My_Website/#contact">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-0DAE9F?style=flat&logo=html5&logoColor=white" />
-  </a>
-</p>
+
 
 
 ## Key Projects
