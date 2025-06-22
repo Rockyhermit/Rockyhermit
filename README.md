@@ -22,8 +22,9 @@
 
 ## Key Projects
 
+
+- [Multi-Modal Health Insights Platform](https://github.com/Pratheek-Tirunagari-and-Ashruj-Gautam/Multi-Modal-Health-Insights-Platform)  — X-ray (DenseNet121), clinical NLP (BioBERT), tabular risk ensemble, PyQt5 GUI
 - [ResearchRAG](https://github.com/Pratheek-Tirunagari-and-Ashruj-Gautam/ResearchRAG-End-to-End-Scientific-Research-Assistant-using-RAG) — Retrieval-Augmented Generation for scientific PDFs (Grobid, LayoutLM, ChromaDB, Mistral-7B) 
-- [Multi-Modal Health Insights Platform](https://github.com/Pratheek-Tirunagari-and-Ashruj-Gautam/Multi-Modal-Health-Insights-Platform)  — X-ray (DenseNet121), clinical NLP (BioBERT), tabular risk ensemble, PyQt5 GUI  
 - [InsightEdge ](https://github.com/Pratheek-Tirunagari-and-Ashruj-Gautam/InsightEdge-AI-Powered-E-Commerce-Intelligence-Platform)  — PostgreSQL analytics engine (11-table schema, PL/pgSQL procedures, real-time dashboards)  
 - [Occlusion-Aware Apple Detection](https://github.com/Pratheek-Tirunagari-and-Ashruj-Gautam/Occlusion_Aware_Apple_Detection_Using_Custom_YOLO_Architecture)  — Custom YOLO model for occluded/small-object detection on COCO & MinneApple  
 - [Real-Time Human Detection & Counting System](https://github.com/Rockyhermit/Real-Time-Human-Detection) — YOLOv8 live webcam system (25+ FPS CPU, 97% accuracy)  
