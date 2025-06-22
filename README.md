@@ -10,9 +10,11 @@
 
 ## Connect with Me
 
-- Email: [pratheektirunagari@gmail.com](mailto:pratheektirunagari@gmail.com)  
-- LinkedIn: [linkedin.com/in/tirunagari-pratheek](https://www.linkedin.com/in/tirunagari-pratheek)  
-- Portfolio: [rockyhermit.github.io/My_Website](https://rockyhermit.github.io/My_Website/#contact)
+
+[![Email](https://img.shields.io/badge/Email-pratheektirunagari%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:pratheektirunagari@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirunagari-pratheek)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0DAE9F?style=flat&logo=html5&logoColor=white)](https://rockyhermit.github.io/My_Website/#contact)
+
 
 ## Key Projects
 
