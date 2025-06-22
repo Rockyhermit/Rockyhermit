@@ -10,10 +10,17 @@
 
 ## Connect with Me
 
-
-[![Email](https://img.shields.io/badge/Email-pratheektirunagari%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:pratheektirunagari@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirunagari-pratheek)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-0DAE9F?style=flat&logo=html5&logoColor=white)](https://rockyhermit.github.io/My_Website/#contact)
+<p align="center">
+  <a href="mailto:pratheektirunagari@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-pratheektirunagari%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tirunagari-pratheek">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://rockyhermit.github.io/My_Website/#contact">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-0DAE9F?style=flat&logo=html5&logoColor=white" />
+  </a>
+</p>
 
 
 ## Key Projects
