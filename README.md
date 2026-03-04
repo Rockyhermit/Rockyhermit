@@ -51,11 +51,3 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-
-  <a href="https://github.com/Rockyhermit/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rockyhermit&show_icons=true&theme=github_dark" height="180"/>
-  </a>
-  <a href="https://github.com/Rockyhermit/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockyhermit&layout=compact&theme=github_dark" height="180"/>
-  </a>
-</p>
