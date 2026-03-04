@@ -54,10 +54,10 @@
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Rockyhermit/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Rockyhermit&show_icons=true&theme=github_dark" height="180"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Rockyhermit/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockyhermit&layout=compact&theme=github_dark" height="180"/>
   </a>
 </p>
