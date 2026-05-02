@@ -22,11 +22,14 @@
 
 ## Key Projects
 
-
-- [Multi-Modal Health Insights Platform](https://github.com/Pratheek-Tirunagari-and-Ashruj-Gautam/Multi-Modal-Health-Insights-Platform)  — X-ray (DenseNet121), clinical NLP (BioBERT), tabular risk ensemble, PyQt5 GUI
-- [ResearchRAG](https://github.com/Pratheek-Tirunagari-and-Ashruj-Gautam/ResearchRAG-End-to-End-Scientific-Research-Assistant-using-RAG) — Retrieval-Augmented Generation for scientific PDFs (Grobid, LayoutLM, ChromaDB, Mistral-7B) 
-- [InsightEdge ](https://github.com/Pratheek-Tirunagari-and-Ashruj-Gautam/InsightEdge-AI-Powered-E-Commerce-Intelligence-Platform)  — PostgreSQL analytics engine (11-table schema, PL/pgSQL procedures, real-time dashboards)  
-- [Occlusion-Aware Apple Detection](https://github.com/Pratheek-Tirunagari-and-Ashruj-Gautam/Occlusion_Aware_Apple_Detection_Using_Custom_YOLO_Architecture)  — Custom YOLO model for occluded/small-object detection on COCO & MinneApple  
+- [Bitly Clone Project](https://github.com/Rockyhermit/bitly-clone-project)
+— Distributed URL shortener with Redis caching, BullMQ async analytics, and PostgreSQL-backed click tracking
+- [Hiresphere](https://github.com/Rockyhermit/hiresphere)
+— AI-driven job tracker with resume–JD matching, FastAPI backend, and Chrome extension ingestion
+- [Multi-Modal Health Insights Platform](https://github.com/Rockyhermit/Multi-Modal-Health-Insights-Platform)  — X-ray (DenseNet121), clinical NLP (BioBERT), tabular risk ensemble, PyQt5 GUI
+- [ResearchRAG](https://github.com/Rockyhermit/ResearchRAG-End-to-End-Scientific-Research-Assistant-using-RAG) — Retrieval-Augmented Generation for scientific PDFs (Grobid, LayoutLM, ChromaDB, Mistral-7B) 
+- [InsightEdge ](https://github.com/Rockyhermit/InsightEdge-AI-Powered-E-Commerce-Intelligence-Platform)  — PostgreSQL analytics engine (11-table schema, PL/pgSQL procedures, real-time dashboards)  
+- [Occlusion-Aware Apple Detection](https://github.com/Rockyhermit/Occlusion_Aware_Apple_Detection_Using_Custom_YOLO_Architecture)  — Custom YOLO model for occluded/small-object detection on COCO & MinneApple  
 - [Real-Time Human Detection & Counting System](https://github.com/Rockyhermit/Real-Time-Human-Detection) — YOLOv8 live webcam system (25+ FPS CPU, 97% accuracy)  
 - [Threat Detection System](https://github.com/Rockyhermit/Threat-Detection-System) — YOLOv5 handgun & knife detection (82% accuracy, 45+ FPS GPU)
 
